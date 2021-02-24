@@ -1,0 +1,130 @@
+{
+  "album": [
+    {
+      "album_title": "Party Day 3",
+      "posted_on": "24/02/2021",
+      "thumbnail": "https://images.unsplash.com/photo-1614030109243-0516c770755a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80",
+      "id": 3
+    },
+    {
+      "album_title": "Party Day 4",
+      "posted_on": "24/02/2021",
+      "thumbnail": "https://images.unsplash.com/photo-1593642632559-0c6d3fc62b89?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1350&q=80",
+      "id": 4
+    },
+    {
+      "album_title": "Party Day 5",
+      "posted_on": "24/02/2021",
+      "thumbnail": "https://images.unsplash.com/photo-1613966537936-526fa871b2dd?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "id": 5
+    },
+    {
+      "album_title": "Party Day 6",
+      "posted_on": "24/02/2021",
+      "thumbnail": "https://images.unsplash.com/photo-1613999844584-6658ee7350b3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80",
+      "id": 6
+    }
+  ],
+  "pics": [
+    {
+      "id": 1,
+      "album_id": 1,
+      "img": "https://images.unsplash.com/photo-1612163882564-d2e85632d823?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 2,
+      "album_id": 1,
+      "img": "https://images.unsplash.com/photo-1613425722536-7c88ed402b97?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 3,
+      "album_id": 1,
+      "img": "https://images.unsplash.com/photo-1549458451-69349db6816a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 4,
+      "album_id": 2,
+      "img": "https://images.unsplash.com/photo-1613912399892-15a00703a947?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=632&q=80"
+    },
+    {
+      "id": 5,
+      "album_id": 2,
+      "img": "https://images.unsplash.com/photo-1613510888400-cab68a707f0d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1345&q=80"
+    },
+    {
+      "id": 6,
+      "album_id": 2,
+      "img": "https://images.unsplash.com/photo-1607880685020-651cb5149c60?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1355&q=80"
+    },
+    {
+      "id": 7,
+      "album_id": 3,
+      "img": "https://images.unsplash.com/photo-1537346439163-eafb59bdc400?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=968&q=80"
+    },
+    {
+      "id": 8,
+      "album_id": 3,
+      "img": "https://images.unsplash.com/photo-1598364927781-fd306d1147a8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=80"
+    },
+    {
+      "id": 9,
+      "album_id": 3,
+      "img": "https://images.unsplash.com/photo-1613810256343-e31fb97de3d5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 10,
+      "album_id": 3,
+      "img": "https://images.unsplash.com/photo-1612330857061-16ad8403d4c8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 11,
+      "album_id": 4,
+      "img": "https://images.unsplash.com/photo-1610401163029-227ab25995ea?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 12,
+      "album_id": 4,
+      "img": "https://images.unsplash.com/photo-1572216026870-aa136802e931?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80"
+    },
+    {
+      "id": 13,
+      "album_id": 4,
+      "img": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 14,
+      "album_id": 5,
+      "img": "https://images.unsplash.com/photo-1581089778998-5266350efc71?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+    },
+    {
+      "id": 15,
+      "album_id": 5,
+      "img": "https://images.unsplash.com/photo-1581090604093-b89d92ae3bc0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    },
+    {
+      "id": 16,
+      "album_id": 5,
+      "img": "https://source.unsplash.com/1600x900/?Experimental"
+    },
+    {
+      "id": 17,
+      "album_id": 5,
+      "img": "https://source.unsplash.com/1600x900/?Interiors"
+    },
+    {
+      "id": 18,
+      "album_id": 6,
+      "img": "https://source.unsplash.com/1600x900/?Travel"
+    },
+    {
+      "id": 19,
+      "album_id": 6,
+      "img": "https://source.unsplash.com/1600x900/?food"
+    },
+    {
+      "id": 20,
+      "album_id": 6,
+      "img": "https://source.unsplash.com/1600x900/?drink"
+    }
+  ]
+}
