@@ -1,7 +1,7 @@
-import { combineReducers} from 'redux';
+import { combineReducers } from "redux";
 
-import gallery  from './gallery'
+import gallery from "./gallery";
 
 export default combineReducers({
-    gallery
+  gallery,
 });

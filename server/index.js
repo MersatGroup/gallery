@@ -6,11 +6,11 @@ import galleryRoutes from './routes/galleryRoute.js'
 
 const app =express();
 
-app.use('/gallery', galleryRoutes);
 
 app.use(bodyParser.json({ limit: "30mb", extended: true }));
 app.use(bodyParser.urlencoded({ limit: "30mb", extended: true }));
 app.use(cors());
+app.use('/gallery', galleryRoutes);
 
 const CONNECTION_URL = 'mongodb+srv://sftdev16:mersat123@maincluster.4woyg.mongodb.net/test?authSource=admin&replicaSet=atlas-9tpctr-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true'
 const PORT = process.env.PORT || 5000;
